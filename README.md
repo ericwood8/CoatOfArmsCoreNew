@@ -1,6 +1,6 @@
 # CoatOfArmsCoreNew
 Coat Of Arms Generator 
-(This is a minor evoluation of my older program.
+(This is a minor evolution of my older program.
  This is written in .NET 8, C# WinForms)
 
 I contend we should build flexible "purpose-built" programs. This program is the second in a series of my purpose-built programs that illustrate "expandable programs". Expandable programs are those whose functionalty grows as new data is introduced. In this particular case, the coat-of-arms generator's functionalty grows as more data (in this case images - grows). So as you add an shield-shape or an "ordinary" or a "charge", the number of possible coat-of-arms generated expands.
